@@ -1,0 +1,37 @@
+body {
+  font-family: sans-serif;
+  font-size: 18px;
+}
+
+select {
+  font-size: 1.6rem;
+}
+
+.container {
+  border: 1px solid lightgray;
+  padding: 0.5rem;
+}
+
+.container label {
+  font-size: 1.6rem;
+  padding-right: 1rem;
+  font-weight: bold;
+}
+
+#moveResult li {
+  margin-top: 1rem;
+}
+
+#moveText, #moveResult {
+  min-height: 2rem;
+}
+
+.container input {
+  font-size: 1.6rem;
+  width: 2rem;
+}
+
+.container button {
+  font-size: 1.6rem;
+
+}
